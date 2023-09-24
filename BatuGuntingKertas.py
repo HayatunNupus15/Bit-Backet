@@ -1,7 +1,7 @@
 import random
 
 def main():
-    print("Selamat datang di Permainan Batu Gunting Batu Kertas!")
+    print("Selamat datang di Permainan Batu-Gunting-Batu-Kertas!")
     
     while True:
         user_choice = input("Pilih batu, gunting, atau kertas (keluar untuk mengakhiri): ").lower()
